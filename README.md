@@ -1,5 +1,15 @@
 # ExploradorInicioSueldos
 
+## Instalación
+
+Descargar y ejecutar **`ExploradorSueldos-win-Setup.exe`** desde
+[la última release](https://github.com/desadpi2026/ExploradorSueldos/releases/latest).
+No requiere tener .NET instalado. La aplicación busca actualizaciones al iniciar y
+ofrece instalarlas automáticamente (Velopack). También hay una versión portable
+(`ExploradorSueldos-win-Portable.zip`) que no se instala ni se auto-actualiza.
+
+Este repositorio distribuye únicamente los ejecutables.
+
 **ExploradorInicioSueldos** es una herramienta de escritorio desarrollada en **VB.NET** utilizando **Windows Forms** y la biblioteca **Renci.SshNet**. Funciona como un cliente y explorador SFTP especializado para la administración, visualización y migración de componentes legacy de sistemas mainframe o Unix vinculados al sistema de sueldos.
 
 ## Características Principales
